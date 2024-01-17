@@ -1,4 +1,3 @@
-# Introduction 
 My name is James (Jax) Lubkowitz. I am a Biology and Computer Science student at St. Lawrence Univeristy and am interested in Bioinformatics. I am currently working on a Hybrid Genome assembly pipeline for the Vermont Biomedical Research Network (VBRN) at UVM. 
 
 <!--
